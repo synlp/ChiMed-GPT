@@ -20,14 +20,36 @@ If you use or extend our work, please cite the following [paper]():
 
 The overall training process of ChiMed-GPT is illustrated in the following figure.
 
+![](docs/figures/architecture.png)
 
 ## Results
 
+We evaluate ChiMed-GPT on information extraction, question answering (QA), and multi-turn dialogue.
+
+### Information Extraction
+
+The results on CCKS2019 and [ChiMST](https://github.com/synlp/ChiMST) are
+
+![](docs/figures/results-ner.png)
+
+### QA
+
+The results are
+
+![](docs/figures/results-QA.png)
 
 
+### Multi-turn Dialog
+
+The results on [MC](https://aclanthology.org/2020.coling-main.63/)
+
+![](docs/figures/results-dialogue.png)
 
 
 ## Download
 
 The version 1.0 is released at [Huggingface](https://huggingface.co/SYNLP/ChiMed-GPT-1.0).
+
+
+## Usage
 
