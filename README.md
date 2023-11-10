@@ -30,7 +30,17 @@ We evaluate ChiMed-GPT on information extraction, question answering (QA), and m
 
 The results on CCKS2019 and [ChiMST](https://github.com/synlp/ChiMST) are
 
-![](docs/figures/results-ner.png)
+| Models          | CCKS-2019 | ChiMST |
+|-----------------|-----------|--------|
+| GPT-3.5-Turbo   | 31.42     | 32.15  |
+| GPT-4           | 41.37     | 41.25  |
+| Ziya-v1         | 25.31     | 22.26  |
+| Ziya-v2         | 27.84     | 25.76  |
+| Baichuan        | 24.14     | 21.20  |
+| Taiyi           | 30.90     | 30.55  |
+| MedicalGPT (Z)  | 29.59     | 28.12  |
+| MedicalGPT (B)  | 23.80     | 26.16  |
+| CHiMed-GPT      | 40.82     | 41.04  |
 
 ### QA
 
