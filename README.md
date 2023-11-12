@@ -44,9 +44,35 @@ The results on CCKS2019 and [ChiMST](https://github.com/synlp/ChiMST) are
 
 ### QA
 
-The results are
+The results on E-Eval, CMMLU, and MedQA are
 
-![](docs/figures/results-QA.png)
+| Models         | C-Eval | CMMLU | MedQA |
+|----------------|-------------|------------|------------|
+| GPT-3.5-Turbo  | 56.58       | 49.91      | 44.50      |
+| GPT-4          | 71.29       | 69.55      | 67.99      |
+| Ziya-v1        | 36.59       | 29.07      | 12.50      |
+| Ziya-v2        | 39.02       | 49.06      | 13.00      |
+| Baichuan       | 41.46       | 45.28      | 13.00      |
+| Taiyi          | 48.78       | 45.20      | 39.20      |
+| MedicalGPT (Z) | 48.78       | 34.56      | 25.99      |
+| MedicalGPT (B) | 39.02       | 43.82      | 18.50      |
+| CHiMed-GPT     | 68.29       | 52.92      | 44.50      |
+
+
+And the results on ChiMed is
+
+| Models         | BLEU-1  | BLEU-2  | ROUGE-1  | ROUGE-2  | ROUGE-L  |
+|----------------|------|------|------|------|------|
+| GPT-3.5-Turbo  | 39.15| 32.85| 26.61| 7.31 | 16.84|
+| GPT-4          | 33.61| 28.27| 26.51| 7.13 | 16.63|
+| Ziya-v1        | 6.18 | 5.77 | 18.59| 3.94 | 12.66|
+| Ziya-v2        | 38.41| 31.90| 26.91| 7.90 | 18.67|
+| Baichuan       | 5.81 | 5.25 | 16.91| 3.01 | 11.30|
+| Taiyi          | 11.73| 9.96 | 21.76| 5.26 | 15.46|
+| MedicalGPT (Z) | 39.02| 32.35| 26.76| 8.10 | 18.16|
+| MedicalGPT (B) | 5.82 | 5.26 | 16.61| 2.94 | 11.11|
+| CHiMed-GPT     | 44.58| 37.22| 27.11| 8.89 | 19.86|
+
 
 
 ### Multi-turn Dialog
