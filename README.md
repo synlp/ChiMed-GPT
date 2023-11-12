@@ -79,7 +79,18 @@ And the results on ChiMed is
 
 The results on [MC](https://aclanthology.org/2020.coling-main.63/)
 
-![](docs/figures/results-dialogue.png)
+| Models          | B-1   | B-2   | R-1   | R-2  | R-L  |
+|-----------------|-------|-------|-------|------|------|
+| GPT-3.5-Turbo   | 24.29 | 20.17 | 20.64 | 8.39 | 17.14|
+| GPT-4           | 18.58 | 15.76 | 18.92 | 6.62 | 14.55|
+| Ziya-v1         | 15.85 | 11.75 | 9.92  | 3.04 | 9.02 |
+| Ziya-v2         | 14.21 | 10.99 | 12.20 | 4.45 | 10.61|
+| Baichuan        | 3.44  | 1.61  | 3.87  | 0.34 | 3.49 |
+| Taiyi           | 5.81  | 4.67  | 14.23 | 4.55 | 11.99|
+| MedicalGPT (Z)  | 20.26 | 16.42 | 17.51 | 5.42 | 14.21|
+| MedicalGPT (B)  | 3.94  | 2.19  | 4.34  | 0.13 | 3.50 |
+| CHiMed-GPT      | 33.14 | 30.86 | 43.43 | 34.91| 42.16|
+
 
 
 ## Download
