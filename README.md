@@ -11,7 +11,7 @@ If you use or extend our work, please cite the following [paper]():
 @article{USTC-ChiMed-GPT,
   title="{ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences}",
   author={Yuanhe Tian, Ruyi Gan, Yan Song, Jiaxing Zhang, Yongdong Zhang},
-  journal={arXiv preprint arXiv:0000.00000},
+  journal={arXiv preprint arXiv:2311.06025},
   year={2023},
 }
 ```
