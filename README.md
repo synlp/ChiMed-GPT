@@ -6,7 +6,7 @@ More information about the model is coming soon.
 
 ## Citation
 
-If you use or extend our work, please cite the following [paper]():
+If you use or extend our work, please cite the following [paper](https://arxiv.org/abs/2311.06025):
 ```
 @article{USTC-ChiMed-GPT,
   title="{ChiMed-GPT: A Chinese Medical Large Language Model with Full Training Regime and Better Alignment to Human Preferences}",
