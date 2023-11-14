@@ -95,7 +95,7 @@ The results on [MC](https://aclanthology.org/2020.coling-main.63/)
 
 ## Download
 
-The version 1.0 is released at [Huggingface](https://huggingface.co/SYNLP/ChiMed-GPT-1.0).
+The version 1.0 is released at [Hugging Face](https://huggingface.co/SYNLP/ChiMed-GPT-1.0).
 
 
 ## Usage
