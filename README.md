@@ -40,7 +40,7 @@ The results on CCKS2019 and [ChiMST](https://github.com/synlp/ChiMST) are
 | Taiyi           | 30.90     | 30.55  |
 | MedicalGPT (Z)  | 29.59     | 28.12  |
 | MedicalGPT (B)  | 23.80     | 26.16  |
-| CHiMed-GPT      | 40.82     | 41.04  |
+| CHiMed-GPT      | **40.82**     | **41.04**  |
 
 ### QA
 
@@ -56,7 +56,7 @@ The results on E-Eval, CMMLU, and MedQA are
 | Taiyi          | 48.78       | 45.20      | 39.20      |
 | MedicalGPT (Z) | 48.78       | 34.56      | 25.99      |
 | MedicalGPT (B) | 39.02       | 43.82      | 18.50      |
-| CHiMed-GPT     | 68.29       | 52.92      | 44.50      |
+| CHiMed-GPT     | **68.29**       | **52.92**      | **44.50**      |
 
 
 And the results on ChiMed is
@@ -71,7 +71,7 @@ And the results on ChiMed is
 | Taiyi          | 11.73| 9.96 | 21.76| 5.26 | 15.46|
 | MedicalGPT (Z) | 39.02| 32.35| 26.76| 8.10 | 18.16|
 | MedicalGPT (B) | 5.82 | 5.26 | 16.61| 2.94 | 11.11|
-| CHiMed-GPT     | 44.58| 37.22| 27.11| 8.89 | 19.86|
+| CHiMed-GPT     | **44.58**| **37.22**| **27.11**| **8.89** | **19.86**|
 
 
 
@@ -89,7 +89,7 @@ The results on [MC](https://aclanthology.org/2020.coling-main.63/)
 | Taiyi           | 5.81  | 4.67  | 14.23 | 4.55 | 11.99|
 | MedicalGPT (Z)  | 20.26 | 16.42 | 17.51 | 5.42 | 14.21|
 | MedicalGPT (B)  | 3.94  | 2.19  | 4.34  | 0.13 | 3.50 |
-| CHiMed-GPT      | 33.14 | 30.86 | 43.43 | 34.91| 42.16|
+| CHiMed-GPT      | **33.14** | **30.86** | **43.43** | **34.91**| **42.16**|
 
 
 
