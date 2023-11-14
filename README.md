@@ -1,6 +1,6 @@
 # ChiMed-GPT
 
-ChiMed-GPT is a Chinese medical large language model (LLM) that is built by continually training [Ziya-v2](https://arxiv.org/abs/2311.03301) on Chinese medical data, where pre-training, supervised fine-tuning (SFT), and reinforcement learning from human feedback (RLHF) are performed.
+ChiMed-GPT is a Chinese medical large language model (LLM) built by continually training [Ziya-v2](https://arxiv.org/abs/2311.03301) on Chinese medical data, where pre-training, supervised fine-tuning (SFT), and reinforcement learning from human feedback (RLHF) are comprehensively performed on it.
 
 More information about the model is coming soon.
 
