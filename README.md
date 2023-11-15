@@ -59,7 +59,7 @@ The results on E-Eval, CMMLU, and MedQA are
 | CHiMed-GPT     | **68.29**       | **52.92**      | **44.50**      |
 
 
-And the results on ChiMed is
+And the results on [ChiMed](https://github.com/synlp/ChiMST) is
 
 | Models         | BLEU-1  | BLEU-2  | ROUGE-1  | ROUGE-2  | ROUGE-L  |
 |----------------|------|------|------|------|------|
