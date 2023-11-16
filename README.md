@@ -44,7 +44,7 @@ The results on CCKS2019 and [ChiMST](https://github.com/synlp/ChiMST) are
 
 ### QA
 
-The results on E-Eval, CMMLU, and MedQA are
+The results on C-Eval, CMMLU, and MedQA are
 
 | Models         | C-Eval | CMMLU | MedQA |
 |----------------|-------------|------------|------------|
