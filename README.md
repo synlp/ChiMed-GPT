@@ -95,6 +95,9 @@ ChiMed-GPT 的整体训练过程如下图所示。
 1.0 版本已在 [Hugging Face](https://huggingface.co/SYNLP/ChiMed-GPT-1.0) 发布。
 
 ## 使用方法
+
+安装根据官网的教程安装 [PyTroch](https://pytorch.org/get-started/locally/) 和 [Transformers](https://huggingface.co/docs/transformers/installation)。并使用下面的代码运行
+
 ```python
 from transformers import AutoTokenizer
 from transformers import LlamaForCausalLM
