@@ -101,6 +101,9 @@ The version 1.0 is released at [Hugging Face](https://huggingface.co/SYNLP/ChiMe
 
 
 ## Usage
+
+Install [PyTorch](https://pytorch.org/get-started/locally/) and [Transformers](https://huggingface.co/docs/transformers/installation) and use the model with the following code.
+
 ```python
 from transformers import AutoTokenizer
 from transformers import LlamaForCausalLM
