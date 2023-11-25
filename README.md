@@ -98,7 +98,7 @@ ChiMed-GPT 的整体训练过程如下图所示。
 
 ## 使用方法
 
-安装根据官网的教程安装 [PyTroch](https://pytorch.org/get-started/locally/) 和 [Transformers](https://huggingface.co/docs/transformers/installation)。并使用下面的代码运行
+安装根据官网的教程安装 [PyTroch](https://pytorch.org/get-started/locally/) 和 [Transformers](https://huggingface.co/docs/transformers/installation) 并使用下面的代码运行
 
 ```python
 from transformers import AutoTokenizer
@@ -117,6 +117,8 @@ generate_ids = model.generate(
 output = tokenizer.batch_decode(generate_ids)[0]
 print(output)
 ```
+
+注：请使用最新版本的 `transformers` (我们使用的版本为4.35.2)
 
 ## 免责声明
 
