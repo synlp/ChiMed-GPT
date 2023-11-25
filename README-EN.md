@@ -6,6 +6,8 @@ ChiMed-GPT is a Chinese medical large language model (LLM) built by continually 
 
 More information about the model is coming soon.
 
+If you have any questions and suggestions about future versions of ChiMed-GPT, please leave comments in `issues`.
+
 ## Citation
 
 If you use or extend our work, please cite the following [paper](https://arxiv.org/abs/2311.06025):

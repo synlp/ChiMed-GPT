@@ -6,6 +6,8 @@ ChiMed-GPT 是一款基于 [Ziya-v2](https://arxiv.org/abs/2311.03301) 的中文
 
 更多关于该模型的信息即将发布。
 
+如您有任何问题，或者对 ChiMed-GPT 未来的版本有任何建议，请在 issue 中留言。
+
 ## 引用
 
 如果您使用或扩展我们的工作，请引用以下[论文](https://arxiv.org/abs/2311.06025)
