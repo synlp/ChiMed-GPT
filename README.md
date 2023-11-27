@@ -22,7 +22,7 @@ ChiMed-GPT 是一款基于 [Ziya-v2](https://arxiv.org/abs/2311.03301) 的中文
 
 ## 训练过程
 
-ChiMed-GPT 的整体训练过程如下图所示。
+ChiMed-GPT 的训练过程包括了预训练、监督微调、人类反馈强化学习。具体流程和使用的数据集如下图所示。
 
 ![](docs/figures/architecture.png)
 
