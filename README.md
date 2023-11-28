@@ -30,9 +30,9 @@ ChiMed-GPT 的训练过程包括了预训练、监督微调、人类反馈强化
 
 我们在信息提取、问答（QA）和多轮对话上评估了 ChiMed-GPT。
 
-### 信息提取
+### 信息抽取
 
-在 CCKS2019 和 [ChiMST](https://github.com/synlp/ChiMST) 上的结果为
+我们在命名实体识别（NER）任务上，在 CCKS2019 和 [ChiMST](https://github.com/synlp/ChiMST) 上的结果为
 
 | 模型             | CCKS-2019 | ChiMST |
 |-----------------|-----------|--------|
