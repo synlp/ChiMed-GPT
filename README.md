@@ -2,7 +2,7 @@
 
 # ChiMed-GPT
 
-ChiMed-GPT 是一款基于 [Ziya-v2](https://arxiv.org/abs/2311.03301) 的中文医疗大型语言模型（LLM）。在Ziya-v2的基础上，综合进行了预训练、监督式微调（SFT）和来自人类反馈的强化学习（RLHF）。
+ChiMed-GPT 是一款基于 [Ziya-v2](https://arxiv.org/abs/2311.03301) 的中文医疗大型语言模型（LLM）。在Ziya-v2的基础上，综合进行了预训练、监督式微调（SFT）和来自人类反馈的强化学习（RLHF）。模型支持的最大上下文长度为4096。
 
 更多关于该模型的信息即将发布。
 
