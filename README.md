@@ -112,8 +112,8 @@ input_ids = tokenizer(query, return_tensors="pt").input_ids.to('cuda:0')
 generate_ids = model.generate(
             input_ids,
             max_new_tokens=512, 
-            do_sample = True, 
-            top_p = 0.9)
+            do_sample=True, 
+            top_p=0.9)
 output = tokenizer.batch_decode(generate_ids)[0]
 print(output)
 ```
